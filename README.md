@@ -1,7 +1,7 @@
 # Ridderapp
 
 A new Flutter project.
-
+[Complete Guide to Build Smart Order Assignment for Delivery Agents in Flutter.](https://www.sevensquaretech.com/smart-order-assignment-for-delivery-agents-in-flutter-with-code-github/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
